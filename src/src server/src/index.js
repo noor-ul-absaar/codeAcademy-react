@@ -3,11 +3,12 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import BaseComponent from "./BaseComponent";
+import Jobs from "./Jobs";
+import Jobs_Class from "./Jobs_Class";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BaseComponent />
+    <Jobs_Class />
   </React.StrictMode>,
   document.getElementById("root")
 );

@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "SMD", "room": "Seminar Hall" },
+  { "id": 1, "title": "DS Programming", "room": "AUditorium" },
+  { "id": 1, "title": "ML Programming", "room": "CS4" }
+]

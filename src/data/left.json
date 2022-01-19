@@ -1,0 +1,76 @@
+{
+    "languages": [
+      {
+        "title": "HTML & CSS"
+      },
+      {
+        "title":"PYTHON"
+      },
+      {
+        "title": "HTML"
+      },
+      {
+        "title": "swift"
+      },
+      {
+        "title": "R"
+      },
+      {
+        "title": "C++"
+      },
+      {
+        "title": "JAVA"
+      },
+      {
+        "title": "Bah/shell"
+      },
+      {
+        "title": "kotlin"
+      },
+      {
+        "title": "Go"
+      },
+      {
+        "title": "swift"
+      },
+      {
+        "title": "C#"
+      }
+
+
+
+    ],  
+
+    "subjects": [
+        {
+          "title": "web development"
+        },
+        {
+          "title":"datas Science"
+        },
+        {
+          "title": "Machine Learning"
+        },
+        {
+          "title": "Game Development"
+        },
+        {
+          "title": "mobile Development"
+        },
+        {
+          "title": "Code foundation"
+        },
+        {
+          "title": "Data visualization"
+        },
+        {
+          "title": "Image Processing"
+        },
+        {
+          "title": "Cyber security"
+        }
+
+  
+      ]  
+
+}

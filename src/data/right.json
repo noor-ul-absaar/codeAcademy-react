@@ -1,0 +1,220 @@
+{
+  "languages": [
+    {
+      "title": "HTML & CSS",
+      "description": "explore all",
+      "url":"url('https://static-assets.codecademy.com/assets/components/cards/explore-category-card/language/python.svg')",
+      "type":""
+      
+    },
+    {
+      "title":"PYTHON",
+      "description": "explore all",
+      "url":"url('https://static-assets.codecademy.com/assets/components/cards/explore-category-card/subject/web-development.svg')",
+      "type":""
+
+
+    },
+    {
+      "title": "HTML",
+      "description": "explore all",
+      "url":"url('https://static-assets.codecademy.com/assets/components/cards/explore-category-card/subject/data-science.svg')",
+      "type":""
+    },
+    {
+      "title": "LEARN HTML",
+      "description": "begineer friendly , 6 lessons",
+      "url":" ",
+      "type":"pro course",
+      "end":"language fluency"
+    },
+    {
+      "title": "swift",
+      "description": "explore all",
+      "url":"url('https://static-assets.codecademy.com/assets/components/cards/explore-category-card/language/javascript.svg')",
+      "type":""
+    },
+    {
+      "title": "R",
+      "description": "explore all",
+      "url":"url('https://static-assets.codecademy.com/components/curriculum/path/front-end-engineer-career-path/curriculum-card.svg' )",
+      "type":""
+    },
+    {
+      "title": "C++",
+      "description": "explore all",
+      "url":"url('https://static-assets.codecademy.com/assets/components/cards/explore-category-card/language/python.svg')",
+      "type":""
+      
+      
+    },
+    {
+      "title": "JAVA",
+      "description": "explore all",
+      "url":"url('https://static-assets.codecademy.com/assets/components/cards/explore-category-card/subject/data-science.svg')",
+      "type":""
+    
+    },
+    {
+      "title": "LEARN JAVA",
+      "description": "begineer friendly , 16 lessons",
+      "url":" ",
+      "type":"pro course",
+      "end":"language fluency"
+    },
+    {
+      "title": "Welcome To CODEACADEMY",
+      "description": "begineer friendly , 1 lesson",
+      "url":" ",
+      "type":"course",
+      "end":"language fluency"
+
+    }
+
+
+
+  ],
+  "languages2": [
+    
+    {
+      "title": "Software Design Principles",
+      "description": "begineer friendly , 3 lessons",
+      "url":" ",
+      "type":"pro course",
+      "end":""
+    },
+    {
+      "title": "BI Dashboards with Tableau",
+      "description": "begineer friendly ",
+      "url":" ",
+      "type":"pro course",
+      "end":"language fluency"
+    },
+    
+    {
+      "title": "LEARN JAVA",
+      "description": "begineer friendly , 16 lessons",
+      "url":" ",
+      "type":"pro course",
+      "end":"language fluency"
+    },
+    {
+      "title": "Learn Build Tools",
+      "description": "begineer friendly , 1 lesson",
+      "url":" ",
+      "type":"Pro course",
+      "end":"language fluency"
+
+    },
+    {
+      "title": "Learn Intermediate JAVASCRIPT",
+      "description": "begineer friendly , 1 lesson",
+      "url":" ",
+      "type":"course",
+      "end":"language fluency"
+
+    },
+    {
+      "title": "Welcome To CODEACADEMY",
+      "description": "begineer friendly , 1 lesson",
+      "url":" ",
+      "type":"course",
+      "end":"language fluency"
+
+    }
+
+
+
+  ],
+  "languages3": [
+    
+    {
+      "title": "video",
+      "description": "What is a programming language"
+      
+    },
+    {
+      "title": "blog",
+      "description": "Our first mobile development path hast arrived "
+      
+    },
+    
+    {
+      "title": "video",
+      "description": "How to think like a programmer"
+     
+    },
+    {
+      "title": "video",
+      "description": "How long does it take to learn to code"
+      
+
+    }
+
+
+  ],
+  "languages4": [
+    {
+      "title": "Video",
+      "description": "How to stay motivated",
+      "url":"url('https://static-assets.codecademy.com/assets/components/resources/blog/standard/group-59.svg')",
+      "type":""
+      
+    },
+    {
+      "title":"Blog",
+      "description": "what does data scientist do",
+      "url":"url('https://static-assets.codecademy.com/assets/components/resources/blog/standard/group-60.svg')",
+      "type":""
+
+
+    },
+    {
+      "title": "Blog",
+      "description": "explore all",
+      "url":"url('https://static-assets.codecademy.com/assets/components/resources/video/standard/group-79.svg')",
+      "type":""
+    }
+   
+    
+   
+
+   
+  ],
+  "languages5": [
+    {
+    "url":"url('https://static-assets.codecademy.com/assets/components/resources/article/standard/group-7.svg')"
+    
+  }
+  ],
+  "languages6": [
+    {
+      "title": "Video",
+      "description": "How to stay motivated",
+     
+      "type":""
+      
+    },
+    {
+      "title":"Blog",
+      "description": "what does data scientist do",
+     
+      "type":""
+
+
+    },
+    {
+      "title": "Blog",
+      "description": "explore all",
+      
+      "type":""
+    }
+   
+    
+   
+
+   
+  ]
+
+ 
+}
